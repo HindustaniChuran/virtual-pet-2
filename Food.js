@@ -6,7 +6,7 @@ class Food
   this.image=loadImage('images/Milk.png');
   }
 
-/*updateFoodStock(foodStock)
+updateFoodStock(foodStock)
  {
   this.foodStock=foodStock;
  }
@@ -17,7 +17,7 @@ class Food
    {
     this.foodStock=this.foodStock-1;
    }
-  }*/
+  }
  
   updateFoodStock(foodStock)
  {
